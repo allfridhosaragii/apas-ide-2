@@ -1,0 +1,55 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/context/obsidian-mind/README.md
+/:
+  en: 06e7703830aa767f
+  zh: 4290fe417437e683
+/deepseek-ai-dsh-obsidian-mind:
+  en: 7d7d3028b94b060b
+  zh: 32bc6d6cb828c586
+/deepseek-ai-dsh-obsidian-mind/summary:
+  en: 08a87e411e5c24ce
+  zh: 77efb0c0fbe56ece
+/deepseek-ai-dsh-obsidian-mind/table-of-contents:
+  en: 76368b6b1da79c80
+  zh: 936a113a73fd268d
+/deepseek-ai-dsh-obsidian-mind/use-this-package:
+  en: 6ce0f3fa5a1f374c
+  zh: 1d141c83c5968abb
+/deepseek-ai-dsh-obsidian-mind/understand-the-implementation:
+  en: 7170d4348820fcc3
+  zh: 08f2df7dd870b747
+/deepseek-ai-dsh-obsidian-mind/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-obsidian-mind/model-experience/startup-project-briefing:
+  en: 89132a221eddd5c5
+  zh: b4b7ff6ac8a9d09c
+/deepseek-ai-dsh-obsidian-mind/model-experience/startup-project-briefing/what-the-model-sees:
+  en: 7910371344fa3efc
+  zh: d18973b8ee6f0527
+/deepseek-ai-dsh-obsidian-mind/model-experience/startup-project-briefing/token-effect:
+  en: c0a660ee9c27a51f
+  zh: f2d4125cf7890efa
+/deepseek-ai-dsh-obsidian-mind/model-experience/startup-project-briefing/kv-cache-effect:
+  en: 964a1d1b70b88844
+  zh: 50947d9d8b054eda
+/deepseek-ai-dsh-obsidian-mind/model-experience/obsidian-mind-tools-and-guidance:
+  en: 9a283c2ded4155eb
+  zh: 31800f4d3ac40d46
+/deepseek-ai-dsh-obsidian-mind/model-experience/obsidian-mind-tools-and-guidance/what-the-model-sees:
+  en: f7dc929fce4bfb0c
+  zh: fb4ebc656b6e7a17
+/deepseek-ai-dsh-obsidian-mind/model-experience/obsidian-mind-tools-and-guidance/token-effect:
+  en: 5d2246f8c29bee00
+  zh: 0efa8eb80b1e3a3c
+/deepseek-ai-dsh-obsidian-mind/model-experience/obsidian-mind-tools-and-guidance/kv-cache-effect:
+  en: ba767999dc7a515a
+  zh: 0a336db29b2597cb
+/deepseek-ai-dsh-obsidian-mind/known-limitations-and-deferred-work:
+  en: 46cd5072da7d0443
+  zh: 62a37734b2cd03b9
+/deepseek-ai-dsh-obsidian-mind/known-limitations-and-deferred-work/dev-note:
+  en: e67f633dc6fe7773
+  zh: dcb612e936078cae

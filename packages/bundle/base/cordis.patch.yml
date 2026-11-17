@@ -315,6 +315,14 @@
       config:
         maxBytes: 65536
 
+    # Built-in Obsidian-Mind vault (`$DSH_HOME/obsidian-mind` by default; optional
+    # companion vaults via `extraReadVaults` or `DSH_OBSIDIAN_MIND_*` env vars).
+    - id: obsidian-mind
+      name: '@deepseek-ai/dsh-obsidian-mind'
+
+    - id: obsidian-mind-agent
+      name: '@deepseek-ai/dsh-obsidian-mind/agent'
+
     - id: skill
       name: '@deepseek-ai/dsh-skill'
 

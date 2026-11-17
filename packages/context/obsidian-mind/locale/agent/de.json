@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "description": "Injiziert Projektgedaechtnis beim Sitzungsstart und stellt Abruf- und Schreibwerkzeuge bereit.",
+    "title": "Obsidian Mind Tools"
+  }
+}

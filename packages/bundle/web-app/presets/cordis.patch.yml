@@ -19,6 +19,8 @@
             name: '@deepseek-ai/dsh-agent-instructions'
             config:
               maxBytes: 65536
+          - id: obsidian-mind-agent
+            name: '@deepseek-ai/dsh-obsidian-mind/agent'
           - id: time-context
             name: '@deepseek-ai/dsh-time-context'
           - id: tool-bash

@@ -616,6 +616,9 @@
 - id: agent-instructions
   disabled: true
 
+- id: obsidian-mind-agent
+  disabled: true
+
 - id: tool-todo
   disabled: true
 

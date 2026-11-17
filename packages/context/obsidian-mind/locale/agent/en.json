@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "description": "Injects project memory at session start and provides recall and record tools.",
+    "title": "Obsidian Mind tools"
+  }
+}

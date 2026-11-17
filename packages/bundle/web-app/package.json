@@ -162,6 +162,7 @@
     "@deepseek-ai/dsh-mcp-manager": "workspace:*",
     "@deepseek-ai/dsh-message-feedback": "workspace:*",
     "@deepseek-ai/dsh-message-quotes": "workspace:*",
+    "@deepseek-ai/dsh-obsidian-mind": "workspace:*",
     "@deepseek-ai/dsh-office-kit": "workspace:*",
     "@deepseek-ai/dsh-persona": "workspace:*",
     "@deepseek-ai/dsh-plan-mode": "workspace:*",
